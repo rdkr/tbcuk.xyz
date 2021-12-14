@@ -1,0 +1,13 @@
+name = "tbcuk-survival"
+author = "radhakr"
+version = "0.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bd35f064bc3956758ef5ced9938ecca601f1c008300c4748d7261ca0236d32d4"
+
+[versions]
+fabric = "0.12.12"
+minecraft = "1.18.1"

@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "253800067c95c8c871e047518277be6dea81fd91790e196158820d19d1e0d831"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "6acb793cd97dff83925decbfab9c9e418563c1fe2c84f1972047e7110a39f16f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+metafile = true
+
+[[files]]
+file = "mods/collective-fabric.toml"
+hash = "4494193742aaf989404aadfee1d2261abf5c70ddf0491b92512af2474b372c30"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "8df7c3c71826ce681197edb83592e57d2b29d99a63b0043e7eaae9c968699498"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "09dc1458f82750e2ed48a1bb45ad41c5c73202b7bcc55e94cfbea79b7e1309c3"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester-fabric.toml"
+hash = "ae870c0eb2db12da2f85012f67e875a1462c4f8fd6105a48448777fee52326d2"
+metafile = true
