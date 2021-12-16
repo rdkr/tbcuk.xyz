@@ -16,8 +16,13 @@ hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
 
 [[files]]
+file = "mods/clumps.toml"
+hash = "8bb15253f02fe99855e02fae54bad21f43108099b8d3b3666df691d84704cd91"
+metafile = true
+
+[[files]]
 file = "mods/collective-fabric.toml"
-hash = "4494193742aaf989404aadfee1d2261abf5c70ddf0491b92512af2474b372c30"
+hash = "a2de54c45e5bb8dea51d212db64ea6cc07ca232a77d9a6a1097fcc20493ce87d"
 metafile = true
 
 [[files]]
@@ -26,13 +31,18 @@ hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests-for-fabric.toml"
+hash = "46460c24083012d319c3a06021f3814f2de4330bf836b4edefc0bf975f7e97c8"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "8df7c3c71826ce681197edb83592e57d2b29d99a63b0043e7eaae9c968699498"
+hash = "346ac311f7969746f9543c4c5084f2f88ea62cc6739667061f19a3a99b577ad1"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "09dc1458f82750e2ed48a1bb45ad41c5c73202b7bcc55e94cfbea79b7e1309c3"
+hash = "93e3bcfaa398054a3f68c3d8937cf7e7b715876702ea906cf4ee1e493d911518"
 metafile = true
 
 [[files]]

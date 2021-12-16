@@ -1,0 +1,13 @@
+name = "Iron Chests for Fabric"
+filename = "IronChests-1.5.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3550/577/IronChests-1.5.3.jar"
+hash-format = "murmur2"
+hash = "2025968298"
+
+[update]
+[update.curseforge]
+file-id = 3550577
+project-id = 498534
