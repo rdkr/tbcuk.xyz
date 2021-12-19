@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "6acb793cd97dff83925decbfab9c9e418563c1fe2c84f1972047e7110a39f16f"
+hash = "1cd5f30cd826c92a345487d6c8111beed7d7dc6d87959676def4b244d5de6572"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "346ac311f7969746f9543c4c5084f2f88ea62cc6739667061f19a3a99b577ad1"
+hash = "a7cfffa1ceff7278f0de374a5298cd4ffc827a95bfa0d3ce6b7cebfee907dd3c"
 metafile = true
 
 [[files]]
