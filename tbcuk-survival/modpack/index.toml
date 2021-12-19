@@ -31,6 +31,16 @@ hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
 metafile = true
 
 [[files]]
+file = "mods/full-turtle-armor.toml"
+hash = "4e2c91df9fdc78d6b7cf3d792f9bf92ae30e9e413c553abdd991def2db728258"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.toml"
+hash = "fe9c8d6dea7b2e5c12b7578081fb807eadb208f2393ca5dfc5e8baab61e5c048"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests-for-fabric.toml"
 hash = "46460c24083012d319c3a06021f3814f2de4330bf836b4edefc0bf975f7e97c8"
 metafile = true
