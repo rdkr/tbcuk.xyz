@@ -59,3 +59,8 @@ metafile = true
 file = "mods/tree-harvester-fabric.toml"
 hash = "ae870c0eb2db12da2f85012f67e875a1462c4f8fd6105a48448777fee52326d2"
 metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "5ac413280bbb87fb0345670174905922afdd422521287357db8e13a327056aec"
+metafile = true

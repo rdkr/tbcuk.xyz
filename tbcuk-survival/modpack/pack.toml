@@ -1,12 +1,12 @@
 name = "tbcuk-survival"
 author = "radhakr"
-version = "0.2.0"
+version = "0.3.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "53ef875c4dce8ec642dfb465e8ffdad86af4a4008038047243fd66cbf89cdd3a"
+hash = "d0df7c56270c482c3a358c683a5dd68fe3b497a267b99f4bb581d4184772e51e"
 
 [versions]
 fabric = "0.12.12"
